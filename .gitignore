@@ -1,0 +1,5 @@
+# MindManager data files (kept out of version control)
+*.xmmap
+*.mmap
+*.mmd
+
